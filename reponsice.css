@@ -1,0 +1,32 @@
+@media only screen and (max-width:46.1875em){
+    .happy{
+        font-size:80px;
+        font-weight:500;
+        top:40%;
+    }
+    .newyear>span{
+        font-size: 140px;
+    }
+    span.two{
+        margin-right: -170px;
+    }
+    span.three{
+        margin-right: -170px;
+    }
+    @keyframes vem_2023{
+        0% {
+            right: 0%;
+          }
+          66.6666% {
+            right: 50%;
+            margin-right: -250px;
+          }
+          90% {
+            right: 50%;
+            margin-right: -250px;
+          }
+          100% {
+            right: 50%;
+          }
+    }
+}
